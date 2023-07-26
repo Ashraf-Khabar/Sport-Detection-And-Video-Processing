@@ -1,6 +1,6 @@
 # <center style="color:#d589">Sport Detection And Video Processing</center>
 
-* This porject aimes to make a deep learning model in order to extract items from a sport video in order to detect which sport is in the video . 
+* This project aims to create a deep learning model for extracting items from a sports video and accurately detecting the type of sport featured in the video .
 * In this `Model` we will use a dataset of images classed by names, for example :
 
     ```js
