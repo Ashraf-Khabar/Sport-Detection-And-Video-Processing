@@ -46,7 +46,7 @@ with :
 * $\alpha$ : is the learning rate hyperparameter, controlling the step size during updates.
 
 * $\nabla\mathcal{L(x, \mathscr{C})}$ : is the gradient of the loss function with respect to the parameter.
-* $\mathrm{momentum }$ : is the momentum hyperparameter, which smooths the update process and helps to accelerate convergence in certain cases.
+* $\mathrm{momentum}$ : is the momentum hyperparameter, which smooths the update process and helps to accelerate convergence in certain cases.
 * $\mathrm{previousUpdate}$ : is the accumulated previous update for the parameter.
 * $\mathrm{weightDecay}$ :  is the weight decay hyperparameter, which applies L2 regularization to the parameter to prevent overfitting.
 
@@ -59,7 +59,7 @@ optimizer = optim.SGD(model.fc.parameters(), lr=0.001, momentum=0.9, weight_deca
 
 CrossEntropyLoss is a common loss function used for classification tasks. The formula for the CrossEntropyLoss is as follows:
 
-$\mathcal{L}(x, \mathscr{C}) = \frac{-\log(e^{x_c})}{\sum_{i=1}^{n}e^{x_i}}$
+$\mathcal{L}(x, \mathscr{C}) = \frac{-\log(e^{x_c})}{\sum_{i=1}e^{x_i}}$
 
 with : 
 
