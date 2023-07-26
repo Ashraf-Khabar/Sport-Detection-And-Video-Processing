@@ -21,6 +21,12 @@
 
 ## Python Libraries 
 
-* We used `Pytorch` for model creation, and tensor creations : <a><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png"></a>
-* We used `sklearn` for metrics and performance : <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="400"></a>
-* We used `numpy` for ndarray manupilation befor transforme it to `torch tensors` : <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" width="500"></a>
+* We used `Pytorch` for model creation, and tensor creations : 
+
+  <a href="https://nodejs.org/en/"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="php" height="100"></a>
+* We used `sklearn` for metrics and performance : 
+
+  <a href="https://nodejs.org/en/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="php" height="90"></a>
+* We used `numpy` for ndarray manupilation befor transforme it to `torch tensors` : 
+
+  <a href="https://nodejs.org/en/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="php" height="100"></a>
